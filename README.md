@@ -1,10 +1,8 @@
 # 👋 Salut, moi c'est Samuel !
 
-Bienvenue sur mon profil GitHub ! 🇫🇷
-
 ## 💻 À propos de moi
 
-- 🎓 Je suis [ton statut actuel – ex. étudiant en informatique / développeur full-stack / ingénieur logiciel...]
+- 🎓 Je suis étudiant en informatique
 - 🔭 Je travaille actuellement sur : [nom ou type de projet actuel]
 - 🌱 J'apprends en ce moment : [technologie(s), outil(s) ou concept(s)]
 - 💬 N'hésite pas à me poser des questions sur : [tes domaines de compétence]
@@ -20,6 +18,10 @@ Voici quelques-unes des technos que j’utilise régulièrement :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
 
 ## 📊 Mes stats GitHub
 
