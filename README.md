@@ -1,6 +1,4 @@
 ![En construction](https://img.shields.io/badge/Statut-En%20construction-yellow?style=for-the-badge&logo=github)
-
-<h3>🚧 Projet en construction 🚧</h3>
 <pre>
 [██████░░░░░░░░░░] 30% – Mise en place initiale...
 </pre>
