@@ -31,7 +31,7 @@ Programming Languages
 <img src="https://devicon-website.vercel.app/api/docker/original.svg" alt="docker" width="30" height="30"></img>
 <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="30" height="30"></img>
 <img src="https://devicon-website.vercel.app/api/linux/original.svg" alt="linux" width="30" height="30"></img>
-<img src="https://devicon-website.vercel.app/api/macos/original.svg" alt="macos" width="30" height="30"></img>
+<img src="https://devicon-website.vercel.app/api/apple/original.svg" alt="apple" width="30" height="30"></img>
 </p>
 
 
