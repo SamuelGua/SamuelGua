@@ -1,44 +1,64 @@
-![En construction](https://img.shields.io/badge/Statut-En%20construction-yellow?style=for-the-badge&logo=github)
-<pre>
-[██████░░░░░░░░░░] 30% – Mise en place initiale...
-</pre>
+# Hi, I'm Samuel CELY 👋
 
+Passionate developer and student at School 42, I specialize in low-level programming with a strong aptitude for C and C++. Eager to build robust and high-performance applications, I am focusing my career on backend and Android development.
 
+This portfolio centralizes my projects and illustrates my continuous learning journey.
 
-# 👋 Salut, moi c'est Samuel !
+🇫🇷 Student at School 42.
 
-## 💻 À propos de moi
+🎯 Focused on backend and native Android (Kotlin) development.
 
-- 🎓 Je suis étudiant en informatique
-- 🔭 Je travaille actuellement sur : [nom ou type de projet actuel]
-- 🌱 J'apprends en ce moment : La cybersecurite
-- 📫 Tu peux me contacter ici : [ton e-mail ou lien vers LinkedIn/Twitter/autre]
+💡 Passionate about problem-solving, algorithms, and distributed systems.
 
-## 🛠️ Technologies & Outils
+### Technical Skills 🛠️
 
-### 🌐 Développement web  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+Here is an overview of the languages and tools I master, based on my recent projects.
+Programming Languages
 
-### 💻 Langages & Dev logiciel  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+</p>
+Tools and Technologies
 
-### ⚙️ Outils & environnements  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/> </a>
+</p>
+Noteworthy Projects 🚀
 
+## School 42 Portfolio
 
+This repository gathers all the projects I completed during my curriculum at 42. It showcases my mastery of fundamental computer science concepts, algorithms, and system programming.
 
-## 📊 Mes stats GitHub
+Description: You will find various projects such as FT_IRC, which reproduces an IRC server in C++, Minishell, which is a simplified shell in bash, and Transcendence, a web project where we had to create a Pong game.
 
-![Tes Stats GitHub](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&theme=radical)
+Link to repository: **[42_projects_common-core](https://github.com/SamuelGua/42_projects_common-core)**
 
----
+***Technologies :*** C, C++, Shell, Makefile.
 
-Merci d’avoir visité mon profil ! 😊
+## My First Android Mobile Application
+
+To practice my skills in the Android ecosystem, I designed and developed my first mobile application from scratch.
+
+**Description**: A weather application that allows users to check the weather in their city. This project allowed me to become familiar with the application lifecycle, modern user interface management with Jetpack Compose, and data consumption via an API with Ktor.
+
+Link to repository: **[weather_App](https://github.com/SamuelGua/weather_App)**
+
+***Technologies :*** Kotlin, Android Studio, Jetpack Compose, Ktor.
+
+## Contact 📫
+
+I am always open to new professional opportunities (internships, work-study, first job) and collaborations on challenging projects. Do not hesitate to contact me!
+
+Email:
+
+LinkedIn:
