@@ -12,9 +12,6 @@ This portfolio centralizes my projects and illustrates my continuous learning jo
 
 ### Technical Skills 🛠️
 
-Here is an overview of the languages and tools I master, based on my recent projects.
-Programming Languages
-
 <p align="left">
 <img src="https://devicon-website.vercel.app/api/c/original.svg" alt="c" width="30" height="30"></img>
 <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" alt="cplusplus" width="30" height="30"/>
@@ -34,28 +31,19 @@ Programming Languages
 <img src="https://devicon-website.vercel.app/api/apple/original.svg" alt="apple" width="30" height="30"></img>
 </p>
 
-
 ## Noteworthy Projects 🚀
 
 ### School 42 Portfolio
 
 This repository gathers all the projects I completed during my curriculum at 42. It showcases my mastery of fundamental computer science concepts, algorithms, and system programming.
 
-Description: You will find various projects such as FT_IRC, which reproduces an IRC server in C++, Minishell, which is a simplified shell in bash, and Transcendence, a web project where we had to create a Pong game.
-
 Link to repository: **[42_projects_common-core](https://github.com/SamuelGua/42_projects_common-core)**
 
-***Technologies :*** C, C++, Shell, Makefile.
+### Android Mobile Application
 
-### My First Android Mobile Application
-
-To practice my skills in the Android ecosystem, I designed and developed my first mobile application from scratch.
-
-**Description**: A weather application that allows users to check the weather in their city. This project allowed me to become familiar with the application lifecycle, modern user interface management with Jetpack Compose, and data consumption via an API with Ktor.
+To practice my skills in the Android ecosystem, I designed and developed.
 
 Link to repository: **[weather_App](https://github.com/SamuelGua/weather_App)**
-
-***Technologies :*** Kotlin, Android Studio, Jetpack Compose, Ktor.
 
 ## Contact 📫
 
