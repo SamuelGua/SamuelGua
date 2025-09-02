@@ -16,26 +16,28 @@ Here is an overview of the languages and tools I master, based on my recent proj
 Programming Languages
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<img src="https://devicon-website.vercel.app/api/c/original.svg" alt="c" width="30" height="30"></img>
+<img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" alt="cplusplus" width="30" height="30"/>
+<img src="https://devicon-website.vercel.app/api/kotlin/original.svg" alt="kotlin" width="30" height="30"></img>
+<img src="https://devicon-website.vercel.app/api/python/original.svg" alt="python" width="30" height="30"></img>
+<img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="javascript" width="30" height="30"></img>
+<img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="html5" width="30" height="30"></img>
+<img src="https://devicon-website.vercel.app/api/css3/original.svg" alt="css3" width="30" height="30"></img>
 </p>
-Tools and Technologies
+
+### Tools and Technologies
 
 <p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/> </a>
+<img src="https://devicon-website.vercel.app/api/docker/original.svg" alt="docker" width="30" height="30"></img>
+<img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="30" height="30"></img>
+<img src="https://devicon-website.vercel.app/api/linux/original.svg" alt="linux" width="30" height="30"></img>
+<img src="https://devicon-website.vercel.app/api/macos/original.svg" alt="macos" width="30" height="30"></img>
 </p>
-Noteworthy Projects 🚀
 
-## School 42 Portfolio
+
+## Noteworthy Projects 🚀
+
+### School 42 Portfolio
 
 This repository gathers all the projects I completed during my curriculum at 42. It showcases my mastery of fundamental computer science concepts, algorithms, and system programming.
 
@@ -45,7 +47,7 @@ Link to repository: **[42_projects_common-core](https://github.com/SamuelGua/42_
 
 ***Technologies :*** C, C++, Shell, Makefile.
 
-## My First Android Mobile Application
+### My First Android Mobile Application
 
 To practice my skills in the Android ecosystem, I designed and developed my first mobile application from scratch.
 
