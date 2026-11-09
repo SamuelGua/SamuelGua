@@ -18,7 +18,7 @@ Low-level software developer focused on systems programming, modern systems, and
   - High-performance key-value store built in C++.
   - Features dual I/O backends for performance benchmarking: a traditional non-blocking event loop using `epoll` and a modern asynchronous implementation leveraging Linux `io_uring`.
 
-- **[IRC Server](https://github.com/SamuelGua/...)**
+- **[IRC Server](https://github.com/SamuelGua/ft_irc)**
   - Multi-client IRC server in C++ adhering to RFC standards.
   - Implements socket communication, client handling, and channel state management.
 
